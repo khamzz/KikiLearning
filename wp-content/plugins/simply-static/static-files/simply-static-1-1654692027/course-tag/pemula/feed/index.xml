@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pemula &#8211; Kikil Learning</title>
+	<atom:link href="http://khamzz.github.io/kikilearning/course-tag/pemula/feed/" rel="self" type="application/rss+xml" />
+	<link>http://khamzz.github.io/kikilearning</link>
+	<description>Moto situs Anda bisa diletakkan di sini</description>
+	<lastBuildDate>Tue, 24 May 2022 03:37:54 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Belajar HTML Dasar</title>
+		<link>http://khamzz.github.io/kikilearning/courses/belajar-html-dasar/</link>
+		
+		<dc:creator><![CDATA[Kgs Ilham]]></dc:creator>
+		<pubDate>Wed, 18 May 2022 05:33:09 +0000</pubDate>
+				<guid isPermaLink="false">http://khamzz.github.io/kikilearning/?post_type=courses&#038;p=16</guid>
+
+					<description><![CDATA[Belajar Pemrograman Dasar Website mulai dari HTML, CSS, Javascript, PHP, dan MySQLl dalam Satu Bahasan]]></description>
+										<content:encoded><![CDATA[<p><strong>Belajarlah dengan cara terbaik untuk membuat sebuah website menggunakan HTML, CSS, Javascript, PHP, dan MySQL.</strong></p>
+<p>HTML, CSS, Javascript, PHP, dan MySQL adalah lima pemrograman dasar untuk pembuatan website. Dengan demikian, siapapun yang tertarik untuk membuat sebuah website dari sisi coding pasti akan berjumpa dengan kelima bahasa atau script pemrograman tersebut.</p>
+<p>Video course ini merupakan yang terlengkap mengupas kelima pemrograman: HTML, CSS, Javascript, PHP, dan MySQL menggunakan Bahasa Indonesia di Udemy. Tidak peduli apakah Anda pernah memiliki website atau belum pernah melakukan pemrograman, video course ini jelas untuk Anda.</p>
+<p>Masing-masing bahasa atau script program tersebut memiliki fungsi spesifik, yaitu:</p>
+<ul>
+<li>HTML: untuk merancang struktur halaman website. Seluruh website dibangun dari struktur HTML.</li>
+<li>CSS: untuk mengatur bagaimana website akan terlihat di layar monitor. Indah tidaknya tampilan website diatur menggunakan CSS.</li>
+<li>Javscript: untuk membuat website interaktif. Javascript adalah script pemrograman berbasis client-side sehingga sering digunakan untuk mengatur interaksi antara pengguna dan website dengan cepat.</li>
+<li>PHP: untuk membuat website lebih powerful karena bisa menangani logika dan penyimpanan database. Hampir sebagian besar website di dunia ini dibentuk oleh PHP.</li>
+<li>MySQL: untuk menyimpan data-data yang diinput oleh user ke dalam sistem database.</li>
+</ul>
+<p>Video course ini menjelaskan kelima bahasa atau script pemrograman tersebut sehingga Anda bisa memahami dunia desain website dari sisi coding secara cepat dan komprehensif. Isi dari pembahasan meliputi:</p>
+<ul>
+<li>Pengenalan HTML</li>
+<li>Pembuatan paragraf menggunakan HTML</li>
+<li>Mengenal hyperlink dan cara pembuatannya</li>
+<li>Meletakkan foto dan gambar di dalam website</li>
+<li>Membuat tabel di dalam website</li>
+<li>Mendesain form dan membuat input</li>
+<li>Pengenalan CSS dan bagaimana menambahkan ke dalam HTML</li>
+<li>Contoh-contoh selector dan pengaturan teks serta image</li>
+<li>Pengenalan variabel di lingkungan Javascript</li>
+<li>Operator perbandingan dan struktur IF</li>
+<li>Perulangan-perulangan pada Javascript</li>
+<li>Cara menulis kode program PHP dan pengenalan variabel serta tipe data</li>
+<li>Fungsi echo dan print pada PHP</li>
+<li>Menggunakan if dan perulangan</li>
+<li>Pengenalan database dan MySQL</li>
+<li>Dasar-dasar menambah data baru</li>
+<li>Menampilkan data di dalam sebuah tabel</li>
+</ul>
+<p>Video course ini dilengkapi garansi Udemy dalam bentuk 30 hari uang kembali. Jadi silakan tonton dan pelajari cara terbaik mendesain website menggunakan HTML, CSS, Javascript, PHP, dan MySQL.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

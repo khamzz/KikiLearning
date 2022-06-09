@@ -1,0 +1,156 @@
+2022-05-19T06:56:27+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T06:56:47+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T06:58:12+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T06:59:29+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T07:00:33+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T07:00:36+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T07:00:48+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T07:01:50+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T07:07:07+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T07:07:08+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T09:31:54+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T09:31:56+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+
+2022-05-19T09:33:19+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($function) must be a valid callback, non-static method Astra_Builder_Header::header_woo_cart() cannot be called statically in G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php:221
+Stack trace:
+#0 G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-selective-refresh.php(371): WP_Customize_Partial->render(Array)
+#1 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(307): WP_Customize_Selective_Refresh->handle_render_partials_request('')
+#2 G:\XAMPP\htdocs\kikilearning\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#3 G:\XAMPP\htdocs\kikilearning\wp-includes\plugin.php(474): WP_Hook->do_action(Array)
+#4 G:\XAMPP\htdocs\kikilearning\wp-includes\template-loader.php(13): do_action('template_redire...')
+#5 G:\XAMPP\htdocs\kikilearning\wp-blog-header.php(19): require_once('G:\\XAMPP\\htdocs...')
+#6 G:\XAMPP\htdocs\kikilearning\index.php(17): require('G:\\XAMPP\\htdocs...')
+#7 {main}
+  thrown di G:\XAMPP\htdocs\kikilearning\wp-includes\customize\class-wp-customize-partial.php pada baris 221
+

@@ -1,0 +1,16 @@
+id kursus website kikilaerning :
+
+- courses :
+id = 16
+http://localhost/kikilearning/wp-admin/post.php?post=16&action=edit
+
+id = 40
+http://localhost/kikilearning/wp-admin/post.php?post=40&action=edit
+
+- categories :
+id = 17
+http://localhost/kikilearning/wp-admin/term.php?taxonomy=course-category&tag_ID=17&post_type=courses&wp_http_referer=%2Fkikilearning%2Fwp-admin%2Fedit-tags.php%3Ftaxonomy%3Dcourse-category%26post_type%3Dcourses
+
+id desain web = 18
+http://localhost/kikilearning/wp-admin/term.php?taxonomy=course-category&tag_ID=18&post_type=courses&wp_http_referer=%2Fkikilearning%2Fwp-admin%2Fedit-tags.php%3Ftaxonomy%3Dcourse-category%26post_type%3Dcourses
+

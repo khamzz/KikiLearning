@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wordpress &#8211; Kikil Learning</title>
+	<atom:link href="http://khamzz.github.io/kikilearning/course-tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>http://khamzz.github.io/kikilearning</link>
+	<description>Moto situs Anda bisa diletakkan di sini</description>
+	<lastBuildDate>Thu, 19 May 2022 05:26:52 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>All-In-One Kursus Online Membuat Website dengan WordPress</title>
+		<link>http://khamzz.github.io/kikilearning/courses/all-in-one-kursus-online-membuat-website-dengan-wordpress/</link>
+		
+		<dc:creator><![CDATA[Kgs Ilham]]></dc:creator>
+		<pubDate>Thu, 19 May 2022 04:08:29 +0000</pubDate>
+				<guid isPermaLink="false">http://khamzz.github.io/kikilearning/?post_type=courses&#038;p=40</guid>
+
+					<description><![CDATA[Belajar membuat website compro, toko online, e-learning, membership, donasi, berita, sekolah, marketplace di satu kursus]]></description>
+										<content:encoded><![CDATA[<h2 class="udlite-heading-xl styles--description__header--3SNsO" data-purpose="description-title">Deskripsi</h2>
+<div class="show-more--container--3W59b">
+<div class="show-more--content--2BLF7 show-more--with-gradient--2hRXX">
+<div tabindex="0">
+<div data-purpose="safely-set-inner-html:description:description">
+<p><strong>Kursus Online Membuat Website dengan WordPress Terlengkap! </strong>&#8211; Halo! Perkenalkan saya Kgs Ilham yang hobi membuat video edukasi tutorial biasanya saya berbagi di Youtube dan semua video terkait pembuatan website dengan wordpress yang paling tinggi untuk saat ini sudah di tonton lebih dari <strong>700.000 view</strong> untuk satu video dan saya mendapatkan banyak sekali masukan dan pengalaman baru, oleh karena itu saya membuat kursus online berbayar ini dengan <strong>berbagai macam benefit lain yang tidak ada di Youtube.</strong></p>
+<p>Kamu akan mendapatkan jika mengikuti kursus ini</p>
+<ol>
+<li>Video yang <strong>khusus </strong>dibuat untuk kursus berbayar</li>
+<li><strong>Tanya Jawab langsung </strong>ke mentor dengan jaminan 100% pertanyaan dijawab</li>
+<li><strong>Belajar 24 jam</strong>, nonstop. tanpa batasan</li>
+<li>Dapatkan <strong>Sertifikat Kelulusan Gratis!</strong></li>
+<li>Akses Semua Studi Kasus dalam satu kursus, bayar sekali dan gratis update selamanya!</li>
+</ol>
+<p><strong>Apa saja yang dipelajari dalam kursus ini ?</strong></p>
+<ol>
+<li>Belajar Membuat Website Perusahaan/Company Profile</li>
+<li>Belajar Membuat Website Toko Online dengan WooCommerce dan Terintegrasi Payment Gateway Indonesia ( Tripay )</li>
+<li>Belajar Membuat Website E-Learning/LMS/Kursus Online dengan Tutor LMS bisa untuk Private Instrutur/Lembaga/Marketplace</li>
+<li>Belajar Membuat Website Membership Reseller dengan Sejoli Plugin Membership Indonesia</li>
+<li>Belajar Membuat Website Donasi dengan GiveWP bisa untuk penggunaan pribadi/komunitas/dll</li>
+<li><strong>Belajar Membuat Website Berita [ Baru ]</strong></li>
+<li><strong>Belajar Membuat Website Donasi dengan WP Crowdfunding berbasis WooCommerce + Payment Gateway [ Baru ]</strong></li>
+<li><strong>Belajar Membuat Website Sekolah + Sistem E-Learning dengan Tutor LMS [ Baru ]</strong></li>
+<li><strong>Belajar Membuat Website Marketplace/ Toko Online Multivendor dengan WCFM [ Baru ]</strong></li>
+<li><strong>Belajar Membuat Website Undangan Pernikahan dengan Elementor [ Baru ]</strong></li>
+<li><strong>Belajar Membuat Website Property dengan Properties [ Baru ]</strong></li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
